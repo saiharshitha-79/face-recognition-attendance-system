@@ -12,3 +12,5 @@ opencv-python
 mediapipe
 numpy
 langchain
+
+gunicorn
